@@ -68,7 +68,7 @@ O projeto inclui scripts para deployment automático em Azure Virtual Machine, c
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/--------------------------------------
+git clone https://github.com/LuccasAlencar/MottuVision.git
 cd ---------------------------------------------------------------
 ```
 
