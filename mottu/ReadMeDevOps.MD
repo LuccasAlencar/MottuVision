@@ -69,31 +69,26 @@ O projeto inclui scripts para deployment automático em Azure Virtual Machine, c
 1. Clone o repositório:
 ```bash
 git clone https://github.com/LuccasAlencar/MottuVision.git
-cd ---------------------------------------------------------------
+cd MottuVision/mottu/scripts
 ```
 
-2. Navegue até a pasta de scripts:
-```bash
-cd scripts
-```
-
-3. Dê permissão de execução ao script de deploy:
+2. Dê permissão de execução ao script de deploy:
 ```bash
 chmod +x deploy.sh
 ```
 
-4. Execute o script de deployment:
+3. Execute o script de deployment:
 ```bash
 bash deploy.sh
 ```
 
-5. Durante a execução:
+4. Durante a execução:
    - Confirme a criação dos recursos com "yes" quando solicitado
    - Digite a senha `Fiap2TDSB2025` quando solicitado (várias vezes durante o processo)
 
 **Importante:** O script automaticamente executará o `docker compose up -d --build` na VM, não sendo necessário executar este comando manualmente.
 
-6. Após a conclusão bem-sucedida, a aplicação estará disponível em:
+5. Após a conclusão bem-sucedida, a aplicação estará disponível em:
 ```
 http://<IP-PUBLICO-DA-VM>:3000
 ```
