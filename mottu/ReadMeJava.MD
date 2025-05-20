@@ -85,7 +85,7 @@ __Clone o repositório:__
 
 git clone https://github.com/LuccasAlencar/MottuVision.git
 
-cd ---------------------------------------------------------------
+cd MottuVision/mottu
 
 __Build e Run:__
 
