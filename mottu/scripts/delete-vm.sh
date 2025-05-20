@@ -1,0 +1,1 @@
+az group delete --name rg-MottuVision-Challenge-1Sem-2tdsb-brazilsouth --yes --no-wait

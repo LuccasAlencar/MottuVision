@@ -1,0 +1,14 @@
+services:
+  api:
+    image: luccasalencar/apijava:latest
+    ports:
+      - "3000:3000"
+    volumes:
+      - h2-data:/data
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:h2:file:/data/db;DB_CLOSE_ON_EXIT=FALSE
+      - SPRING_DATASOURCE_DRIVER_CLASS_NAME=org.h2.Driver
+      - SPRING_JPA_DATABASE_PLATFORM=org.hibernate.dialect.H2Dialect
+
+volumes:
+  h2-data:
