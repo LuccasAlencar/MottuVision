@@ -83,7 +83,7 @@ O projeto segue uma arquitetura em camadas com:
 
 __Clone o repositório:__
 
-git clone https://github.com/--------------------------------------
+git clone https://github.com/LuccasAlencar/MottuVision.git
 
 cd ---------------------------------------------------------------
 
