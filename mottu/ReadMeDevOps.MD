@@ -141,8 +141,8 @@ A documentação permite explorar e testar todos os endpoints da API de forma in
 
 **Clone o repositório:**
 ```bash
-git clone https://github.com/--------------------------------------
-cd ---------------------------------------------------------------
+git clone https://github.com/LuccasAlencar/MottuVision.git
+cd MottuVision/mottu/scripts
 ```
 
 **Build e Run:**
