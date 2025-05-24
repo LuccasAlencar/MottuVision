@@ -17,7 +17,7 @@ A Mottu, líder em aluguel de motocicletas para entregadores de aplicativo, enfr
 
 **Documentação:** interface Swagger para explorar os endpoints interativamente.
 
-## ⭐ Este repositório contém duas matérias: DevOps e Java. Dentro da pasta de cada projeto, há um arquivo README correspondente. Agradeço pela atenção! 😆😎
+## ⭐ Este repositório contém duas matérias: DevOps e Java. Dentro da pasta do projeto, há dois arquivos README um para a cada matéria. Agradeço pela atenção! 😆😎
 
 
 Desenvolvido com 💻 e ♥️ por Daniel Barros e Luccas Rufino.
